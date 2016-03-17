@@ -27,7 +27,7 @@
                      = [2,3,4]
         
         !!number gives us a element at a certain position.
-        example: let numbers = [1,2,3] => !!3 gives us 3
+        example: let numbers = [1,2,3] => numbers !! 3 gives us 3
         
 ## ":" operator constructs a new list node
         example: 
