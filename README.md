@@ -20,14 +20,14 @@
     let function with parameters => let double x = 2 * x
     let x = 3
 
-## keyword: head and tail / indexposition 
+## keyword: head and tail / index position 
         let numbers  = [1,2,3,4]
         head numbers = gives the first element of the list. = 1
         tail numbers = gives rest of the list except of first element as an array.
                      = [2,3,4]
         
         !!number gives us a element at a certain position.
-        example: let numbers = [1,2,3] => numbers !! 3 gives us 3
+        example: let numbers = [1,2,3] => numbers !! 2 gives us 3
         
 ## ":" operator constructs a new list node
         example: 
