@@ -10,7 +10,7 @@
     :load filename or :l filename
     In order to run your program do:
     (name of your function) optional parameters
-    example: functionThatCalculatesSqrtOfANumber 3 => Output would be 9
+    example: functionThatCalculatesSqrtOfANumber 9 => Output would be 3
 
 ### If - statement:
     If u have an if statement there has to be an else statement. Otherwise it would be undefined and throw an error.
