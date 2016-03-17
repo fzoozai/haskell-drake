@@ -1,4 +1,4 @@
-##  Haskell programming
+_Haskell_
 
 ### To show inequality use:
     x /= y 
