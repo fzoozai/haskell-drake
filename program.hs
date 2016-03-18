@@ -15,3 +15,11 @@ noVowels (x:xs)
 watch :: Int -> [Char]
 watch n = show n ++ "o'clock"
 
+add1 :: Int -> Int
+add1 x = x + 1
+
+{-map add1 [1,2,3] delivers [2,3,4]-}
+
+{-map (max 3) [1,2,3,4,5] delivers [3,3,3,4,5]. Map uses the function max and combines it with the array.
+So it compares every single element in the array and if it is greater then den max value (3) it keeps
+it value and position. If it is less then the max value so replace it with the max value-}
