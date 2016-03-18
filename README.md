@@ -26,7 +26,7 @@
         tail numbers = gives rest of the list except of first element as an array.
                      = [2,3,4]
         
-        !!number gives us a element at a certain position.
+        variablename !!number gives us a element at a certain position.
         example: let numbers = [1,2,3] => numbers !! 2 gives us 3
         
 ## ":" operator constructs a new list node

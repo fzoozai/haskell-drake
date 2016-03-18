@@ -34,3 +34,7 @@ it value and position. If it is less then the max value so replace it with the m
 
 {-filter takes a function in a list and gives us a list of those elements for which the function returns True-}
 
+{-Lambda functions-}
+
+{-(\k -> k + 1)-}
+
